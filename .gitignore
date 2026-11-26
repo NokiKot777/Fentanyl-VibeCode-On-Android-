@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.fentanyl.json
+.fentanyl_*
+*.gguf
+.env
+.DS_Store
